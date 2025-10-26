@@ -150,6 +150,23 @@ Example from `firewall_log.txt`:
 ![GUI Window](screenshots/screenshot5_gui_mode.png)
 
 **Description:** Tkinter GUI window showing live packet monitoring (if GUI version is used).
+### 🖥️ GUI Comparison: Updated (Left) vs Old (Right)
+
+In the image below, the **left window** shows the **updated GUI** and the **right window** displays the **old GUI** version of the firewall monitor.
+
+The **updated GUI** introduces new features such as:
+- **Blocked Packets** and **Allowed Packets** counters for real-time monitoring
+- Cleaner and more organized layout
+- Input fields for blocking specific IP addresses and ports
+- Better visibility of firewall activity and status
+
+The **old GUI** on the right side only displayed continuous packet logs without showing any blocked or allowed packet statistics.  
+With the update, users can now easily track how many packets are being blocked or allowed and perform quick IP/port blocking directly from the interface.
+
+**Screenshot Reference:**  
+*Left – Updated GUI showing packet counters and control fields.*  
+*Right – Old GUI showing only live logs.*
+
 
 ---
 
